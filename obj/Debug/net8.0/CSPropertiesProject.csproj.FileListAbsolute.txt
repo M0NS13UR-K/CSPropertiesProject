@@ -1,0 +1,14 @@
+/Users/krishna_chitta/gitportfolio/csharp/CSPropertiesProject/bin/Debug/net8.0/CSPropertiesProject
+/Users/krishna_chitta/gitportfolio/csharp/CSPropertiesProject/bin/Debug/net8.0/CSPropertiesProject.deps.json
+/Users/krishna_chitta/gitportfolio/csharp/CSPropertiesProject/bin/Debug/net8.0/CSPropertiesProject.runtimeconfig.json
+/Users/krishna_chitta/gitportfolio/csharp/CSPropertiesProject/bin/Debug/net8.0/CSPropertiesProject.dll
+/Users/krishna_chitta/gitportfolio/csharp/CSPropertiesProject/bin/Debug/net8.0/CSPropertiesProject.pdb
+/Users/krishna_chitta/gitportfolio/csharp/CSPropertiesProject/obj/Debug/net8.0/CSPropertiesProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krishna_chitta/gitportfolio/csharp/CSPropertiesProject/obj/Debug/net8.0/CSPropertiesProject.AssemblyInfoInputs.cache
+/Users/krishna_chitta/gitportfolio/csharp/CSPropertiesProject/obj/Debug/net8.0/CSPropertiesProject.AssemblyInfo.cs
+/Users/krishna_chitta/gitportfolio/csharp/CSPropertiesProject/obj/Debug/net8.0/CSPropertiesProject.csproj.CoreCompileInputs.cache
+/Users/krishna_chitta/gitportfolio/csharp/CSPropertiesProject/obj/Debug/net8.0/CSPropertiesProject.dll
+/Users/krishna_chitta/gitportfolio/csharp/CSPropertiesProject/obj/Debug/net8.0/refint/CSPropertiesProject.dll
+/Users/krishna_chitta/gitportfolio/csharp/CSPropertiesProject/obj/Debug/net8.0/CSPropertiesProject.pdb
+/Users/krishna_chitta/gitportfolio/csharp/CSPropertiesProject/obj/Debug/net8.0/CSPropertiesProject.genruntimeconfig.cache
+/Users/krishna_chitta/gitportfolio/csharp/CSPropertiesProject/obj/Debug/net8.0/ref/CSPropertiesProject.dll
