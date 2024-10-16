@@ -12,3 +12,4 @@
 /Users/krishna_chitta/gitportfolio/csharp/CSPropertiesProject/obj/Debug/net8.0/CSPropertiesProject.pdb
 /Users/krishna_chitta/gitportfolio/csharp/CSPropertiesProject/obj/Debug/net8.0/CSPropertiesProject.genruntimeconfig.cache
 /Users/krishna_chitta/gitportfolio/csharp/CSPropertiesProject/obj/Debug/net8.0/ref/CSPropertiesProject.dll
+/Users/krishna_chitta/gitportfolio/csharp/CSPropertiesProject/obj/Debug/net8.0/CSPropertiesProject.sourcelink.json
